@@ -1,3 +1,6 @@
 [submodule "js"]
 	path = js
 	url = git@github.com:prateekrajgautam/test1js.git
+[submodule "css"]
+	path = css
+	url = git@github.com:upessocs/test1css.git
